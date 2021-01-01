@@ -7,3 +7,5 @@ Lista de Proyectos Desarrollados con Algoritmos Supervisados de Machine Learning
 2)Algoritmo de Regresion Lineal Simple: Predecir el precio de las casas en Boston de acuerdo al número de habitaciones que cuenta la vivienda. Para desarrollar este caso fue utilizado Jupyter Notebook. Link con las caracteristicas de la base de datos : https://scikit-learn.org/stable/datasets/toy_dataset.html#boston-house-prices-dataset
 
 3)Algoritmo de Regresion Lineal Multiple: Predecir el precio de las casas en Boston, utilizando 3 variables independiente (cantidad de habitaciones, distancia de downtown, tiempo ocupada).
+
+4) Algoritmo de Regresion Polinomial: Predecir el precio de las casas en Boston, pero con un porcentaje del score mejorado ( validaciòn del modelo).
